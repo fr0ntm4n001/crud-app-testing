@@ -71,6 +71,7 @@ yarn dev
 - Open your browser and navigate to http://localhost:3000 to access the application.
 
 
+
 ### Setting Up Cypress
 1. Install Cypress:
    ```bash
@@ -85,10 +86,9 @@ yarn dev
 To execute all test cases directly, use:
 ```bash
 npx cypress run
-
+```
 
 ## Technologies Used
-
 - Next.js 13
 - MongoDB
 - Mongoose
