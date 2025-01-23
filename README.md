@@ -58,7 +58,9 @@ To set up MongoDB Atlas for your project, follow these steps:
 
 
 
-- Start the development server.
+
+
+## Start the development server.
 
 ```bash
 npm run dev
@@ -67,20 +69,6 @@ yarn dev
 ```
 
 - Open your browser and navigate to http://localhost:3000 to access the application.
-
-
-## Setup Database
-go to 
-
-## Technologies Used
-
-- Next.js 13
-- MongoDB
-- Mongoose
-- React Hook Form
-- Bootstrap
-- Cypress for Testing
-
 
 
 ### Setting Up Cypress
@@ -98,5 +86,14 @@ To execute all test cases directly, use:
 ```bash
 npx cypress run
 
+
+## Technologies Used
+
+- Next.js 13
+- MongoDB
+- Mongoose
+- React Hook Form
+- Bootstrap
+- Cypress for Testing
 
 
